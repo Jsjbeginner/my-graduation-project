@@ -1,0 +1,1 @@
+安装完mongodb后 在一个目录下启动 命令：mongod --dbpath E:\projects\node-express-mongodb-2018\mongodb
